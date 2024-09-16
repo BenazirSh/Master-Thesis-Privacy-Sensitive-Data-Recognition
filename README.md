@@ -17,7 +17,7 @@ which has the model files that are around ~450MB, thus requiring Git LFS (Git La
 3. Clone the repository.
 4. Run `git lfs pull` to pull the model files.
 5. Create Python virtual environment by running: `python3 -m venv .venv`
-6. Activate the Virtual environment:
+6. Activate the Virtual environment (https://docs.python.org/3/library/venv.html):
    * Windows: `.\venv\Scripts\activate`
    * Linux: `source .venv/bin/activate`
    * macOS: `source .venv/bin/activate`
