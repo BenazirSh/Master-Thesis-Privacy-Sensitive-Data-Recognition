@@ -1,0 +1,38 @@
+{
+    "CV35": {
+        "PersonalStatement": [
+            {
+                "text": "Mr. Krista Benton, born on 15/03/1924 (30 years old), is a Female specializing in computational fluid dynamics and aerospace materials located in South Lauren, Port Melaniechester. He is Married and a Taylorport citizen."
+            }
+        ],
+        "WorkExperience": [
+            {
+                "text": "Project Manager at AeroTech Dynamics from April 2012 to May 2017. John was instrumental in developing new composite materials for improved flight performance."
+            },
+            {
+                "text": "Lead Systems Engineer at SpaceInnovations, June 2017 to present. He leads projects focused on high-speed aircraft, based in Lisbon."
+            }
+        ],
+        "EducationAndTraining": [
+            {
+                "text": "Master of Science in Aerospace Engineering from Stanford University, 2007-2011. Thesis on 'Applications of nano-enhanced materials for aerospace use'."
+            },
+            {
+                "text": "PhD in Fluid Dynamics from MIT, 2012-2016, with a dissertation focusing on Applications of nano-enhanced materials for aerospace use."
+            }
+        ],
+        "PersonalSkills": [
+            {
+                "text": "Technical Proficiency: Expert in numerical simulation and materials science. His innovations have led to patents in lightweight materials for aerospace applications."
+            },
+            {
+                "text": "Leadership and Communication: Skilled in leading diverse teams and communicating complex technical information effectively."
+            }
+        ],
+        "Hobbies": [
+            {
+                "text": "In he free time, John enjoys hiking."
+            }
+        ]
+    }
+}
